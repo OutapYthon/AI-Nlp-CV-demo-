@@ -1,0 +1,11 @@
+{
+    "cSpell.words": [
+        "fitz",
+        "skillner",
+        "supabase"
+    ],
+    "python.analysis.extraPaths": [
+        "./Ai-recruit-backend/check_"
+    ]
+}
+

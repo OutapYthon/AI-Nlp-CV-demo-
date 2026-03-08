@@ -1,6 +1,7 @@
 'use client'
 interface RoleToggleProps {
   role: 'candidate' | 'recruiter';
+
   setRole: (role: 'candidate' | 'recruiter') => void;
 }
 

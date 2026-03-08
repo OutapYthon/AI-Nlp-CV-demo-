@@ -1,7 +1,7 @@
 'use client';
 
 interface LoaderProps {
-  role?: 'candidate' | 'employer';
+  role?: 'candidate' | 'recruiter';
 }
 
 export default function Loader({ role }: LoaderProps) {
